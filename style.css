@@ -110,8 +110,8 @@ p{
     img{
         display: inline;
         position: absolute;
-        top: 650px;
-        right: 10px;
+        top: 380px;
+        right: 40px;
         width: 312px;
         height: 288px;
         max-width: 90%;
@@ -124,6 +124,7 @@ p{
     h1{
         position: absolute;
         width: auto;
+        right: 20px;
         font-size: 30px;
         line-height: 30px;
         text-align: center;
@@ -138,6 +139,8 @@ p{
     }
     p{
         position: absolute;
+        top: 60px;
+        right: 40px;
         width: auto;
         height: 165px;
         font-size: 18px;
@@ -155,6 +158,8 @@ p{
     .link-section{
         position: absolute;
         width: auto;
+        top: 2px;
+        right: 20px;
         height: 27px;
         font-style: normal;
         font-weight: 500;
@@ -162,7 +167,7 @@ p{
         line-height: 27px;
         letter-spacing: 1px;
         color: #6FBF44;
-        margin: 580px 139px 369px 139px;
+        margin: 450px 139px 369px 139px;
         
     }
         
